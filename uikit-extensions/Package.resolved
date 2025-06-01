@@ -1,0 +1,15 @@
+{
+  "originHash" : "a596bfcd6ed3d0f0d8eb4897e13f0d90d011f152ae916914e102e60f3233f99a",
+  "pins" : [
+    {
+      "identity" : "layout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Incetro/layout.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4f35ce37b8c4a4fe015e2fe0be09888101e73328"
+      }
+    }
+  ],
+  "version" : 3
+}
