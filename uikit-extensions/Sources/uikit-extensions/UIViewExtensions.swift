@@ -1,5 +1,5 @@
 //
-//  UIViewExtensions.swift
+//  UIView + Extensions.swift
 //  uikit-extensions
 //
 //  Created by Andrey Barsukov on 01.06.2025.
@@ -9,7 +9,7 @@
 import UIKit
 import Layout
 
-// MARK: - UIView
+// MARK: - UIView + Extensions
 
 public extension UIView {
 

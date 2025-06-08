@@ -1,5 +1,5 @@
 //
-//  UIEdgeInsetsExtensions.swift
+//  UIEdgeInsets + Extensions.swift
 //  uikit-extensions
 //
 //  Created by Andrey Barsukov on 01.06.2025.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-// MARK: - UIEdgeInsets
+// MARK: - UIEdgeInsets + Extensions
 
 public extension UIEdgeInsets {
 

@@ -1,5 +1,5 @@
 //
-//  UIImageExtensions.swift
+//  UIImage + Extensions.swift
 //  uikit-extensions
 //
 //  Created by Andrey Barsukov on 31.05.2025.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-// MARK: - UIImage
+// MARK: - UIImage + Extensions
 
 extension UIImage {
 
@@ -23,7 +23,7 @@ extension UIImage {
     /// ```
     /// let image = UIImage.system("heart.fill")
     /// ```
-    static func system(_ systemName: String) -> UIImage {
+    public static func system(_ systemName: String) -> UIImage {
         UIImage(systemName: systemName).unsafelyUnwrapped
     }
     
